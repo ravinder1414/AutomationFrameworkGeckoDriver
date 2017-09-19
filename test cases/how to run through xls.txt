@@ -1,0 +1,4 @@
+C:
+cd "C:\Users\pankaj.mehta\Desktop\framework"
+java -jar AutomationFramework.jar 30 1031 "C:\Temp" 300 "C:\Users\pankaj.mehta\Desktop\Full sheets\jhhjjh.xlsx" false
+@pause
